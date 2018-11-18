@@ -14,7 +14,7 @@ xmlrpc=/usr/bin/xmlrpc
 xmlrpc_endpoint=127.0.0.1
 xmlrpc_command="${xmlrpc} ${xmlrpc_endpoint}"
 
-# Racing Mode，設定之rtorren上傳速限(KB/s)，建議設定大於1024KB/s，
+# Racing Mode，設定之rtorren上傳速限(KB/s)，建議設定大於1024KB/s
 Racing_limit_upspeed=20480
 
 ##############################################################
